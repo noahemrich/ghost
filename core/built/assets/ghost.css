@@ -480,7 +480,8 @@ sub {
  * 2. Improves image quality when scaled in IE 7.
  */
 img {
-  border: 0; }
+  border: 0;
+   width: 800px;  }
 
 /**
  * Correct overflow not hidden in IE 9/10/11.
