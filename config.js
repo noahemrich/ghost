@@ -10,7 +10,7 @@ config = {
     // When running Ghost in the wild, use the production environment
     // Configure your URL and mail settings here
     production: {
-        url: 'http://http://ec2-52-4-202-219.compute-1.amazonaws.com/',
+        url: 'http://my-ghost-blog.com',
         mail: {
 	    transport: 'SMTP',
 	    options: {
